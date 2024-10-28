@@ -3,13 +3,17 @@
 
 ### 📝 프로젝트 설명
 이 프로젝트는 **Mediapipe**를 활용한 비디오 처리 및 앙상블 모델링을 통해 시퀀싱(sequencing) 성능을 분석하고 향상시키는 데 중점을 둡니다.  
-각 프레임별로 추출된 데이터를 처리하고, 다양한 복잡도(Complexity) 모델을 비교하여 **PCK (Percentage of Correct Keypoints)** 기준으로 정확도를 평가합니다.
-ground truth dataset은 저작권상 첨부하지 못합니다.
+각 프레임별로 추출된 데이터를 처리하고, 다양한 복잡도(Complexity) 모델을 비교하여 **PCK (Percentage of Correct Keypoints)** 기준으로 정확도를 평가합니다.  
+ground truth dataset은 저작권상 첨부하지 못합니다.  
+sequencing 성능 비교는 IEEE : golfDB swingnet과 비교하며  
+raw data 성능향상 비교는 AIHub에서 골프 스윙 데이터를 다운받아서 GT로 사용합니다.
+
 
 주요 목표는 다음과 같습니다:
 - **복잡도(Complexity) 수준별 성능 비교** (0, 1, 2)
 - **Mediapipe 모델 앙상블 성능 확인**
 - **시각화 및 성능 지표(PCK) 계산**
+- **golf sequencing accuracy 성능비교**
 
 ---
 
