@@ -1,0 +1,50 @@
+[
+    {
+        "Complexity": "Complexity_0",
+        "head": 0.2857142857142857,
+        "right_shoulder": 0.6530612244897959,
+        "left_shoulder": 0.7551020408163265,
+        "right_elbow": 0.3877551020408163,
+        "left_elbow": 0.5510204081632653,
+        "right_wrist": 0.5306122448979592,
+        "left_wrist": 0.4897959183673469,
+        "right_hip": 0.9795918367346939,
+        "left_hip": 0.5714285714285714,
+        "right_knee": 1.0,
+        "left_knee": 1.0,
+        "right_ankle": 0.0,
+        "left_ankle": 0.04081632653061224
+    },
+    {
+        "Complexity": "Complexity_1",
+        "head": 0.14285714285714285,
+        "right_shoulder": 0.6122448979591837,
+        "left_shoulder": 0.7142857142857143,
+        "right_elbow": 0.4897959183673469,
+        "left_elbow": 0.5510204081632653,
+        "right_wrist": 0.6530612244897959,
+        "left_wrist": 0.5714285714285714,
+        "right_hip": 0.8775510204081632,
+        "left_hip": 0.5918367346938775,
+        "right_knee": 1.0,
+        "left_knee": 0.9183673469387755,
+        "right_ankle": 0.0,
+        "left_ankle": 0.0
+    },
+    {
+        "Complexity": "Complexity_2",
+        "head": 0.16326530612244897,
+        "right_shoulder": 0.673469387755102,
+        "left_shoulder": 0.8163265306122449,
+        "right_elbow": 0.6122448979591837,
+        "left_elbow": 0.5306122448979592,
+        "right_wrist": 0.5714285714285714,
+        "left_wrist": 0.5918367346938775,
+        "right_hip": 0.8775510204081632,
+        "left_hip": 0.6938775510204082,
+        "right_knee": 1.0,
+        "left_knee": 0.9591836734693877,
+        "right_ankle": 0.0,
+        "left_ankle": 0.0
+    }
+]

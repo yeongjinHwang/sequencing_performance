@@ -1,0 +1,65 @@
+{
+  "categories": {
+    "keypoints": [
+      "head",
+      "right_shoulder",
+      "left_shoulder",
+      "right_elbow",
+      "left_elbow",
+      "right_wrist",
+      "left_wrist",
+      "right_hip",
+      "left_hip",
+      "right_knee",
+      "left_knee",
+      "right_ankle",
+      "left_ankle"
+    ]
+  },
+  "annotations": [
+    {
+      "frame": 0,
+      "points": [
+        525,
+        615,
+        0,
+        464,
+        663,
+        0,
+        465,
+        660,
+        0,
+        471,
+        776,
+        0,
+        456,
+        770,
+        0,
+        487,
+        893,
+        0,
+        476,
+        878,
+        0,
+        352,
+        850,
+        0,
+        367,
+        847,
+        0,
+        373,
+        1014,
+        0,
+        379,
+        1001,
+        0,
+        419,
+        1224,
+        0,
+        426,
+        1185,
+        0
+      ]
+    }
+  ]
+}
