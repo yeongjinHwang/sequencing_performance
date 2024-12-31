@@ -2,7 +2,7 @@
 # 📊 **Sequencing Performance**
 
 ### 📝 프로젝트 설명
-이 프로젝트는 **Mediapipe**를 활용한 비디오 처리 및 앙상블 모델링을 통해 시퀀싱(sequencing) 성능을 분석하고 향상시키는 데 중점을 둡니다.  
+이 프로젝트는 **Blzepose**를 활용한 비디오 처리 및 앙상블 모델링을 통해 시퀀싱(sequencing) 성능을 분석하고 향상시키는 데 중점을 둡니다.  
 각 프레임별로 추출된 데이터를 처리하고, 다양한 복잡도(Complexity) 모델을 비교하여 **PCK (Percentage of Correct Keypoints)** 기준으로 정확도를 평가합니다.  
 ground truth dataset은 저작권상 첨부하지 못합니다.  
 sequencing 성능 비교는 IEEE : golfDB swingnet과 비교하며  
